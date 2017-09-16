@@ -12,7 +12,7 @@ url: "https://amanxsharma.github.io/"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
+baseurl: ""
 
 # Google tracking id
 
@@ -31,8 +31,8 @@ force-https: True
 lang: "en"
 author: "Aman Sharma"
 title: "{ Aman Sharma }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "aman, sharma, software, developer, experienced"
+description: "Blog and website of Aman Sharma."
+keywords: "aman, sharma, software, developer, experienced, Python, Node.JS"
 favicon: "/img/favicon.ico"
 
 ################
@@ -58,27 +58,9 @@ lines: # You can add HTML Tags in the Text
   - text: "Never let the child inside you..DIE!"
   - text: "Nerd with a Humor..!!"
 
-# me-img: "/img/jetpacktocat.png"
-
-# To use facebook profile pic comment the previous line and uncomment the following
-# line, and replace 'user_id' with your facebook user id.
-# Facebook user id can be found by clicking on your profile pic and the large number
-# in the end of the url just before '&type' is your user id.
-# Note: fbid is not the same as user id and user id only contains numbers
-
-# me-img: "https://graph.facebook.com/user_id/picture?type=large&width=500&height=500"
-
-# To use github profile pic uncomment the following line and replace 'user_name'
-# with your github user name.
 
 me-img: "https://github.com/amanxsharma.png?size=500"
 
-# To use gravatar profile pic uncomment the following line and replace 'email_hash'
-# with your gravatar profile email hash.
-# You can create the email hash by using an online tool like 'http://www.md5hashgenerator.com/'
-# just enter your email and it will generate the hash.
-
-# me-img: "https://www.gravatar.com/avatar/email_hash?s=500"
 
 ##############################
 # Color the browser elements #
@@ -156,24 +138,21 @@ email: "aman.sharma728@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+# author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+# author_blurb_image: "/img/author.png"
 
 ##################
 # Social Buttons #
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/amanxsharma/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://github.com/amanxsharma"
+  - title: "Blog"
+    url: "https://amanxsharma.github.io/"
+
 
 ############
 # 404 page #
@@ -185,7 +164,7 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
+keybase-username: amanxsharma
 keybase-in-social: True
 keybase-in-footer: True
 
