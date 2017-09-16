@@ -87,6 +87,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 # Blog #
 ########
 
+
 enable-gesture-navigation: True
 
 post-preview-words: 96
@@ -122,7 +123,7 @@ events:
   - image: "/img/timeline/pythocat.png"
     date: "August 2016"
     description: "First International Trip, Grad School Starts Here"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/labtocat.jpg"
     date: "May 2013"
     description: "First Job, Accenture"
   - image: "/img/timeline/baracktocat.jpg"
