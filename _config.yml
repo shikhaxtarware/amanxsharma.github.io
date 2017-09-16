@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Aman Sharma"
 title: "{ Aman Sharma }"
-description: "Blog and website of Aman Sharma."
+description: "Website of Aman Sharma."
 keywords: "aman, sharma, software, developer, experienced, Python, Node.JS"
 favicon: "/img/favicon.ico"
 
@@ -88,26 +88,26 @@ icon-192p: "/img/web-app/icon-192p.png"
 ########
 
 
-enable-gesture-navigation: True
+#enable-gesture-navigation: True
 
-post-preview-words: 96
+#post-preview-words: 96
 
-paginate: 5
+#paginate: 5
 
-email-share: True
-fb-share: True
-twitter-share: True
-linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+#email-share: True
+#fb-share: True
+#twitter-share: True
+#linkedin-share: True
+#reddit-share: True
+#google-plus-share: True
+#tumblr-share: True
+#pinterest-share: True
+#pocket-share: True
+#vkontakte-share: True
 
-disqus-shortname: "https-amanxsharma-github-io"
+#disqus-shortname: "https-amanxsharma-github-io"
 
-syntax-highlight: True
+#syntax-highlight: True
 
 ############
 # Timeline #
@@ -174,7 +174,7 @@ keybase-in-footer: True
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+  #Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
