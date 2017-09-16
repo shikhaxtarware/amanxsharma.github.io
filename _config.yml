@@ -150,8 +150,10 @@ social:
     url: "https://www.linkedin.com/in/amanxsharma/"
   - title: "github"
     url: "https://github.com/amanxsharma"
-  - title: "blog"
+  - title: "blogspot"
     url: "http://itslogical-itslogical.blogspot.com/"
+  - title: "rss"
+    url: "/feed.xml"
 
 
 ############
