@@ -29,7 +29,7 @@ force-https: True
 #############
 
 lang: "en"
-author: ""
+author: "Aman Sharma"
 title: "{ Aman Sharma }"
 description: "Website of Aman Sharma."
 keywords: "aman, sharma, software, developer, experienced, Python, Node.JS"
