@@ -150,6 +150,8 @@ social:
     url: "https://www.linkedin.com/in/amanxsharma/"
   - title: "github"
     url: "https://github.com/amanxsharma"
+  - title: "blog"
+    url: "http://itslogical-itslogical.blogspot.com/"
 
 
 ############
@@ -174,7 +176,7 @@ keybase-in-footer: True
 
 pages_list:
   About: 'about'
-  #Blog: 'latest-post'
+  Projects: 'projects'
   Timeline: 'timeline'
   Contact: 'contact'
 
