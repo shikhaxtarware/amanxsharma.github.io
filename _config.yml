@@ -123,7 +123,7 @@ events:
   - image: "/img/timeline/pythocat.png"
     date: "August 2016"
     description: "First International Trip, Grad School Starts Here"
-  - image: "/img/timeline/labtocat.jpg"
+  - image: "/img/timeline/labtocat.png"
     date: "May 2013"
     description: "First Job, Accenture"
   - image: "/img/timeline/baracktocat.jpg"
