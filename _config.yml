@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://amanxsharma.github.io/"
+url: "https://shikhaxtarware.github.io/"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "Aman Sharma"
-title: "{ Aman Sharma }"
-description: "Website of Aman Sharma."
-keywords: "aman, sharma, software, developer, experienced, Python, Node.JS"
+author: "Shikha Tarware"
+title: "{ Shikha Tarware }"
+description: "Website of Shikha Tarware."
+keywords: "shikha, tarware, data analytics, business analyst, experienced, Lowe's, Accenture"
 favicon: "/img/favicon.ico"
 
 ################
@@ -59,7 +59,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Nerd with Humor..!!"
 
 
-me-img: "https://github.com/amanxsharma.png?size=500"
+me-img: "https://github.com/shikhaxtarware.png?size=500"
 #me-img: "https://drive.google.com/open?id=0Bz4qstqlL0qjLXRoRF9DMVpTWjQ"
 
 ##############################
@@ -105,7 +105,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 #pocket-share: True
 #vkontakte-share: True
 
-#disqus-shortname: "https-amanxsharma-github-io"
+#disqus-shortname: "https-shikhaxtarware-github-io"
 
 #syntax-highlight: True
 
@@ -138,7 +138,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "aman.sharma728@gmail.com"
+email: "shikhatarware@email.arizona.edu"
 
 
 ##################
@@ -147,9 +147,9 @@ email: "aman.sharma728@gmail.com"
 
 social:
   - title: "linkedin"
-    url: "https://www.linkedin.com/in/amanxsharma/"
+    url: "https://www.linkedin.com/in/shikhatarware/"
   - title: "github"
-    url: "https://github.com/amanxsharma"
+    url: "https://github.com/shikhaxtarware"
 #  - title: "blogspot"
 #    url: "http://itslogical-itslogical.blogspot.com/"
 #  - title: "rss"
@@ -166,7 +166,7 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: amanxsharma
+keybase-username: shikhaxtarware
 keybase-in-social: True
 keybase-in-footer: True
 
