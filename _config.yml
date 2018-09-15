@@ -30,18 +30,18 @@ force-https: True
 
 lang: "en"
 author: "Shikha Tarware"
-title: "{ Shikha Tarware }"
+title: " Shikha Tarware "
 description: "Website of Shikha Tarware."
 keywords: "shikha, tarware, data analytics, business analyst, experienced, Lowe's, Accenture"
-favicon: "/img/favicon.ico"
+# favicon: "/img/favicon.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+#black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+#background-img: "../img/intro-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -56,7 +56,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Never let the child inside you..DIE!"
-  - text: "Nerd with Humor..!!"
+  - text: "Be a beast and make your dreams a REALITY!"
 
 
 me-img: "https://github.com/shikhaxtarware.png?size=500"
@@ -177,9 +177,11 @@ keybase-in-footer: True
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
-  PROJECTS: 'projects'
-  Timeline: 'timeline'
+  About Me: 'about'
+  Education: 'education'
+  Experience: 'experience'
+  PROJECTS: 'projects'  
+  #Timeline: 'timeline'
   Skills & Contact: 'contact'
 
 # Exclusion list from the generated _site
