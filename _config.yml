@@ -118,17 +118,17 @@ events:
     #date: "September 2013 - Today"
     description: "Awesome as usual!"
   - image: "/img/timeline/inflatocat.png"
-    description: "First internship in USA, Madison Logic"
-    date: "June 2017"
+    description: "First internship in USA, Kaiser Permanente"
+    date: "June 2018"
   - image: "/img/timeline/pythocat.png"
-    date: "August 2016"
-    description: "First International Trip, Grad School Starts Here"
+    date: "August 2017"
+    description: "Grad School Starts Here"
   - image: "/img/timeline/labtocat.png"
     date: "May 2013"
     description: "First Job, Accenture"
   - image: "/img/timeline/baracktocat.jpg"
     date: "September 2007"
-    description: "My First Hello World!"
+    description: "First Hello World!"
 
 # First image of the Timeline
 
