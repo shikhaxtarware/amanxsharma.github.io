@@ -180,7 +180,7 @@ pages_list:
   About: 'about'
   PROJECTS: 'projects'
   Timeline: 'timeline'
-  Contact: 'contact'
+  Skills & Contact: 'contact'
 
 # Exclusion list from the generated _site
 
